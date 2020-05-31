@@ -1,0 +1,1 @@
+java framework-Hibernate(ORM tool) project with some basic operations like save,update,create,fetch using MYSQL database and some advanced configurations with some mapping relations in SQL between multiple tables and some query methods.
